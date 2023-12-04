@@ -1,0 +1,7 @@
+1. create a npm project
+2. create index css js files
+3.INSTALL DEPENDIECEIES (npm intsall express)
+(npm insatll nodemon -D)
+4.create a express server (server.js)
+5. front end part
+6. Install socket.io ,setup socket.io in server.js and client client.js
